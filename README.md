@@ -67,7 +67,7 @@ I am a Python language student from Brazil(Korean descent).
 
 ---
 
-### :writing_hand: Recent activities:
+### 🎶 Recent songs:
 <!-- BLOG-POST-LIST:START -->
 - [Jilax &amp; 3Form - I&#39;m a Mess &lpar;Orignal Mix&rpar;](https://www.youtube.com/watch?v=_63KEXQCjTo)
 - [Aura Vortex - Imaginarium em Lá Menor](https://www.youtube.com/watch?v=ADNRKbygoLo)
