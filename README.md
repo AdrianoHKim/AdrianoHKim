@@ -67,6 +67,6 @@ I am a Python language student from Brazil(Korean descent).
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Recent activities:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
