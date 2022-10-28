@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="350"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,3 +26,47 @@
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=AdrianoHKim&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨🏻‍💻 About Me :
+
+I am a Python language student from Brazil(Korean descent).
+- 🎓 Studying System Analysis and Development in Estacio de Sa University - Brazil
+- ⛵ Exploring the programming world
+- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AdrianoHKim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-kim-2a6255228/)  
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>&nbsp;
+<div>
+  
+---
+
+### 🤸‍♂️ Hobbies :
+- 🎨 Drawing
+- 🖥️ PC gaming
+- 🧱 Lego
+- 🏋️ Gym
+- 🎵 Progressive trance
+
+---
+
+### 📊 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdrianoHKim&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoHKim&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
