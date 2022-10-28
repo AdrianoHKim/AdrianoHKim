@@ -69,4 +69,8 @@ I am a Python language student from Brazil(Korean descent).
 
 ### :writing_hand: Recent activities:
 <!-- BLOG-POST-LIST:START -->
+- [Jilax &amp; 3Form - I&#39;m a Mess &lpar;Orignal Mix&rpar;](https://www.youtube.com/watch?v=_63KEXQCjTo)
+- [Aura Vortex - Imaginarium em Lá Menor](https://www.youtube.com/watch?v=ADNRKbygoLo)
+- [Aura Vortex, Blazy - Horizons &lpar;Interstellar&rpar;](https://www.youtube.com/watch?v=OPr5Imgps5c)
+- [Acorda Pedrinho &lpar;Dang3r, Freak Out &amp; Phantom Remix&rpar;](https://www.youtube.com/watch?v=Sz35MMzP8ms)
 <!-- BLOG-POST-LIST:END -->
