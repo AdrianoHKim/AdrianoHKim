@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/adriano-kim-2a6255228/">
+  <a href="https://www.linkedin.com/in/adrianokim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/kimzeraaa/">
@@ -38,7 +38,7 @@
 I am a Python language student from Brazil(Korean descent).
 - 🎓 Studying System Analysis and Development in Estacio de Sa University - Brazil
 - ⛵ Exploring the programming world
-- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AdrianoHKim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-kim-2a6255228/)  
+- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AdrianoHKim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrianokim/)  
 
 ---
 
