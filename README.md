@@ -51,7 +51,7 @@ I am a Python language student from Brazil(Korean descendant).
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp; 
 <div>
   
 ---
@@ -72,10 +72,3 @@ I am a Python language student from Brazil(Korean descendant).
 
 ---
 
-### 🎶 Recent songs:
-<!-- BLOG-POST-LIST:START -->
-- [Jilax &amp; 3Form - I&#39;m a Mess &lpar;Orignal Mix&rpar;](https://www.youtube.com/watch?v=_63KEXQCjTo)
-- [Aura Vortex - Imaginarium em Lá Menor](https://www.youtube.com/watch?v=ADNRKbygoLo)
-- [Aura Vortex, Blazy - Horizons &lpar;Interstellar&rpar;](https://www.youtube.com/watch?v=OPr5Imgps5c)
-- [Acorda Pedrinho &lpar;Dang3r, Freak Out &amp; Phantom Remix&rpar;](https://www.youtube.com/watch?v=Sz35MMzP8ms)
-<!-- BLOG-POST-LIST:END -->
