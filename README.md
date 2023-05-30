@@ -21,9 +21,6 @@
   <a href="https://steamcommunity.com/profiles/76561198022161657">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
-  <a href="https://overwatch.blizzard.com/pt-br/career/pc/kimzerapqp-1745/">
-    <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
-  </a>  
 </div>
 
 <div id="counter" align="center">
