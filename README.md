@@ -71,5 +71,7 @@ I am a Python language student from Brazil(Korean descendant).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=AdrianoHKim&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoHKim)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
