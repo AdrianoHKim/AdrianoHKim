@@ -69,9 +69,9 @@ I am a Python language student from Brazil(Korean descendant).
 ### 📊 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdrianoHKim&theme=merko)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=AdrianoHKim&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianoHKim&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoHKim&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdrianoHKim&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
