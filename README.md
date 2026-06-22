@@ -35,8 +35,8 @@
 
 ### 👨🏻‍💻 About Me :
 
-I am a Python and Data Engineering student from Brazil(Korean descendant).
-- 🎓 Studying System Analysis and Development in Estacio de Sa University - Brazil
+I am a Data Engineer and Python student from Brazil(Korean descendant).
+- 🎓 System Analysis and Development in Estacio de Sa University - Brazil
 - ⛵ Exploring the programming world
 - 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AdrianoHKim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-kim/)  
 
